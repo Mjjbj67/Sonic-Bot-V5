@@ -27,12 +27,12 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '🌿✨𝐒𝐎𝐍𝐈𝐂🍀🎀',
-          gender: '𝗕𝗢𝗬',
-          hobby: '𝐅𝐨𝐨𝐭𝐛𝐚𝐥𝐥🏈',
-          relationship: '𝐄𝐧 𝐜𝐨𝐮𝐩𝐥𝐞❤✨🎀 𝐚𝐯𝐞𝐜 𝐌𝐀𝐑𝐈𝐀𝐌 𝐊𝐎𝐍𝐄🌿❤🍀',
-          facebookLink: 'ʚɸɞhttps://www.facebook.com/profile.php?id=100090405019929.ʚɸɞ',
-          bio: '🍀✨𝐃𝐚𝐧𝐢𝐞𝐥❦𝐔𝐜𝐡𝐢𝐰𝐚✨🍀 👮𝐏𝐨𝐥𝐢𝐜𝐞 𝐔𝐜𝐡𝐢𝐰𝐚🍀𝐒𝐨𝐜𝐢𝐚𝐥𝐞🍀𝐃𝐞 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤👮'
+          name: 'ᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ',
+          gender: 'ᏰᎧᎩ',
+          hobby: 'ᏰᏗᏕᏦᏋᏖ🏀',
+          relationship: 'ᏒᏋፈᏂᏋᏒፈᏂᏋ ᎴᏬᏁᏋ ᎮᏋᏖᎥᏖᏋ ᏗᎷᎥᏋ',
+          facebookLink: 'https://www.facebook.com/profile.php?id=100091289477923&mibextid=ZbWKwL',
+          bio: 'ᏖᎧᏬᏠᎧᏬᏒᏕ ᏖᏒᏗᏁᎤᏬᎥᏝᏝᏋ 🤞💖'
         };
 
         const videoUrl = 
@@ -72,7 +72,7 @@ module.exports = {
 ❍⌇─➭ 
  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞🔗: ${ownerInfo.facebookLink}
 ❍⌇─➭ 
-      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: ${ownerInfo.bio} 🇨🇮
+      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: ${ownerInfo.bio} 🇨🇲
         `;
 
         await api.sendMessage({
