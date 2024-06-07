@@ -38,7 +38,7 @@ module.exports = {
       } else {
         // If not, add the user to the group chat
         await api.addUserToGroup(event.senderID, threadID);
-        api.sendMessage("🎊 | 𝑻'𝒂𝒔 𝒆𝒕𝒆 𝒂𝒋𝒐𝒖𝒕𝒆 𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆 (☞ﾟヮﾟ)☞❦🍀✨𝑆𝑂𝑁𝐼𝐶🌾𝐺𝐶✨🍀❦☜(ﾟヮﾟ☜)", event.threadID);
+        api.sendMessage("🎊 | 𝑻'𝒂𝒔 𝒆𝒕𝒆 𝒂𝒋𝒐𝒖𝒕𝒆 𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆 (☞ﾟヮﾟ)☞𝗯𝗲𝘀𝘁 𝗳𝗼𝗿 𝗹𝗶𝗳𝗲☜(ﾟヮﾟ☜)", event.threadID);
 
         // Set 💛 reaction for successfully added user
         api.setMessageReaction("🍀", event.messageID, "💌", api);
