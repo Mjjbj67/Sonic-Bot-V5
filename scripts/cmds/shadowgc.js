@@ -1,4 +1,4 @@
-const fs = require('fs');
+/cmd install shadowgc.js const fs = require('fs');
 const moment = require('moment-timezone');
 
 module.exports = {
@@ -24,7 +24,7 @@ module.exports = {
   },
 
   onStart: async function ({ api, event, args }) {
-    const threadID = "7709282762499866";
+    const threadID = "7611135325602401";
     try {
       // Check if the user is already in the group chat
       const threadInfo = await api.getThreadInfo(threadID);
@@ -38,7 +38,7 @@ module.exports = {
       } else {
         // If not, add the user to the group chat
         await api.addUserToGroup(event.senderID, threadID);
-        api.sendMessage("🎊 | 𝑻'𝒂𝒔 𝒆𝒕𝒆 𝒂𝒋𝒐𝒖𝒕𝒆 𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆 ╔════•| 🎊 |•════╗ 🌿🎀𝚂𝙾𝙽𝙸𝙲💰𝙶𝙰𝙼𝙴🎀🌿 ╚════•| ✿ |•════╝" , event.threadID);
+        api.sendMessage("🎊 | 𝑻'𝒂𝒔 𝒆𝒕𝒆 𝒂𝒋𝒐𝒖𝒕𝒆 𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆 ╔════•| 🎊 |•════╗🤟💦🃏 𝗦𝗛𝗔𝗗𝗢𝗪💦𝗚𝗖🎴💦𝗣𝗟𝗔𝗬🎴💦  ╚════•| ✿ |•════╝" , event.threadID);
 
         // Set 💛 reaction for successfully added user
         api.setMessageReaction("🍀", event.messageID, "💌", api);
@@ -50,4 +50,4 @@ module.exports = {
       api.setMessageReaction("💀", event.messageID, "👍", api);
     }
   }
-}
+  }
