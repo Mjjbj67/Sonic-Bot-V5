@@ -1,4 +1,4 @@
-module.exports = {
+/cmd install lord.js module.exports = {
   config: {
     name: "lord",
     aliases: ["lrd"],
@@ -9,7 +9,7 @@ module.exports = {
     shortDescription: "Amuses toi bien au jeu du hasard",
     longDescription: "Seul le hasard tu rendras riche ou pauvre...Bonne chance",
     category: "game",
-    guide: "{pn} <Suzaku/Zero> <amount of money>"
+    guide: "{pn} <Zero> <amount of money>"
   },
 
   onStart: async function ({ args, message, usersData, event }) {
@@ -18,8 +18,8 @@ module.exports = {
     const user = event.senderID;
     const userData = await usersData.get(event.senderID);
 
-    if (!["suzaku", "zero"].includes(betType)) {
-      return message.reply("❤‍🔥 | 𝗖𝗵𝗼𝗶𝘀𝗶 : '𝘀𝘂𝘇𝗮𝗸𝘂' 𝗼𝘂 '𝘇𝗲𝗿𝗼'.");
+    if (!["zero"].includes(betType)) {
+      return message.reply("❤‍🔥 | 𝒆́𝒄𝒓𝒊𝒕 𝒍𝒐𝒓𝒅 𝒛𝒆𝒓𝒐 𝒑𝒖𝒊𝒔 𝒍𝒆 𝒎𝒐𝒏𝒕𝒂𝒏𝒕 v(￣︶￣)y.");
     }
 
     if (!Number.isInteger(betAmount) || betAmount < 50) {
@@ -49,16 +49,16 @@ module.exports = {
       const winAmount = 2 * betAmount;
       userData.money += winAmount;
       await usersData.set(event.senderID, userData);
-      return message.reply(`🎀✨𝐄𝐔𝐏𝐇𝐄𝐌𝐈𝐀✨🎀
+      return message.reply(`😈STANLEY•••BOT😈
  ───────────
 💘[ ${resultString} ]💘\ 💚|𝐁𝐫𝐚𝐯𝐨 𝐩𝐞𝐭𝐢𝐭 𝐜𝐨𝐞𝐮𝐫 𝐭'𝐚𝐬 𝐠𝐚𝐠𝐧𝐞 🎀${winAmount}€🎀!`);
     } else {
       userData.money -= betAmount;
       await usersData.set(event.senderID, userData);
-      return message.reply(`𝐄𝐔𝐏𝐇𝐄𝐌𝐈𝐀
+      return message.reply(`😈STANLEY•••BOT😈
   ─────────── 
 ʕ˖͜͡˖ʔ[ ${resultString} ]ʕ˖͜͡˖ʔ
 🥺| 𝐃𝐞𝐬𝐨𝐥𝐞 𝐦𝐨𝐧 𝐜𝐡𝐨𝐮 𝐭'𝐚𝐬 𝐩𝐞𝐫𝐝𝐮 🎀${betAmount}€🎀.`);
     }
   }
-    }
+              }
