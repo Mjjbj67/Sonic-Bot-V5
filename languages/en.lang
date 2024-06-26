@@ -94,7 +94,7 @@ handlerEvents.threadBanned=This group has been banned from using the bot\n» Rea
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
 handlerEvents.onlyAdminBot=👻 | 𝑺𝒆𝒖𝒍 ᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ 𝒖𝒕𝒊𝒍𝒊𝒔𝒆 𝒍𝒆 𝑩𝒐𝒕 𝒑𝒐𝒖𝒓 𝒍'𝒊𝒏𝒔𝒕𝒂𝒏𝒕\n________________\n😈STANLEY•••BOT😈
 handlerEvents.commandNotFound=📝| 𝐂𝐞𝐭𝐭𝐞 𝐜𝐦𝐝 𝐧'𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐞 𝐥𝐚 𝐜𝐦𝐝 /help\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏\n😈STANLEY•••BOT😈
-handlerEvents.commandNotFound2=🎶✨𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁✨🎶\n____________\nᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ\n________________\n🔵𝙇𝙄𝙉𝙆'𝙎 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞🔵\n________________\n╭────╯•╰────╮\https://www.facebook.com/profile.php?id=100091289477923&mibextid=ZbWKwL\n╰────╮•╭────╯\n_________________\n😈STANLEY•••BOT😈 
+handlerEvents.commandNotFound2=🎶✨𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁✨🎶\n____________\nᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ\n________________\n🔵𝙇𝙄𝙉𝙆'𝙎 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞🔵\n________________\n╭────╯•╰────╮\m.me100091289477923\n╰────╮•╭────╯\n_________________\n😈STANLEY•••BOT😈 
 handlerEvents.commandSyntaxError=The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1" \n__________________\n 😈STANLEY•••BOT😈
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
