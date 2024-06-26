@@ -1,4 +1,4 @@
-/cmd install lord.js module.exports = {
+ module.exports = {
   config: {
     name: "lord",
     aliases: ["lrd"],
