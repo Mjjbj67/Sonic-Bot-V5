@@ -92,17 +92,17 @@ handlerCheckData.cantCreateUser=Users with id '%1' cannot be written to the data
 handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\n» Time: %2\n» User ID: %3
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
-handlerEvents.onlyAdminBot=👻 | 𝑺𝒆𝒖𝒍 𝑬𝑷𝑯𝑬𝑴𝑰𝑨 𝒖𝒕𝒊𝒍𝒊𝒔𝒆 𝒍𝒆 𝑩𝒐𝒕\n________________\n❦ঔৣ☬𝐒𝐎𝐍𝐈𝐂☬ঔৣ❦
-handlerEvents.commandNotFound=📝| 𝐂𝐞𝐭𝐭𝐞 𝐜𝐦𝐝 𝐧'𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐞 𝐥𝐚 𝐜𝐦𝐝 #help\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏\n❦ঔৣ☬𝐒𝐎𝐍𝐈𝐂☬ঔৣ❦
-handlerEvents.commandNotFound2=🎶✨𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁✨🎶\n____________\n❦ʬɸʬ Shïsûį Dånïęl ʬɸʬ❦\n________________\n🔵𝙇𝙄𝙉𝙆'𝙎 𝙂𝙄𝙏𝙃𝙐𝘽🔵\n________________\n╭────╯•╰────╮\nhttps://github.com/Sonic-Daniel/Sonic-Bot-V5.git\n╰────╮•╭────╯\n_________________\n❦ঔৣ☬𝐒𝐎𝐍𝐈𝐂☬ঔৣ❦ 
+handlerEvents.onlyAdminBot=👻 | 𝑺𝒆𝒖𝒍 ᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ 𝒖𝒕𝒊𝒍𝒊𝒔𝒆 𝒍𝒆 𝑩𝒐𝒕 𝒑𝒐𝒖𝒓 𝒍'𝒊𝒏𝒔𝒕𝒂𝒏𝒕\n________________\n😈STANLEY•••BOT😈
+handlerEvents.commandNotFound=📝| 𝐂𝐞𝐭𝐭𝐞 𝐜𝐦𝐝 𝐧'𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐞 𝐥𝐚 𝐜𝐦𝐝 /help\n✎﹏﹏﹏﹏﹏﹏﹏﹏﹏\n😈STANLEY•••BOT😈
+handlerEvents.commandNotFound2=🎶✨𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁✨🎶\n____________\nᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ\n________________\n🔵𝙇𝙄𝙉𝙆'𝙎 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞🔵\n________________\n╭────╯•╰────╮\https://www.facebook.com/profile.php?id=100091289477923&mibextid=ZbWKwL\n╰────╮•╭────╯\n_________________\n😈STANLEY•••BOT😈 
 handlerEvents.commandSyntaxError=The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command
-handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1" \n__________________\n ❦ঔৣ☬𝐒𝐎𝐍𝐈𝐂☬ঔৣ❦
+handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1" \n__________________\n 😈STANLEY•••BOT😈
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
 handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1" \n☄⚋⚋⚋⚋⚋⚋⚋\n❦ঔৣ☬𝐒𝐎𝐍𝐈𝐂☬ঔৣ❦
-handlerEvents.onlyAdminBot2=❌ | 𝐒𝐞𝐮𝐥 ❦ঔৣ☬𝐒𝐎𝐍𝐈𝐂☬ঔৣ❦ 𝐮𝐭𝐢𝐥𝐢𝐬𝐞 𝐥𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 🌾%1🌾
+handlerEvents.onlyAdminBot2=❌ | 𝐒𝐞𝐮𝐥 ᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ 𝐮𝐭𝐢𝐥𝐢𝐬𝐞 𝐥𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞 🌾%1🌾
 handlerEvents.onlyAdminBot2ToUseOnReply=❌ | Only bot's admin can use the reply function of the command "%1"
 handlerEvents.onlyAdminBot2ToUseOnReaction=❌ | Only bot's admin can use the reaction function of the command "%1"
-handlerEvents.waitingForCommand=💁| 𝐒𝐨𝐢𝐬 𝐩𝐚𝐭𝐢𝐞𝐧𝐭(𝐞) 𝐛𝐨𝐧 𝐬𝐚𝐧𝐠 \n__________________\n ❦ঔৣ☬𝐒𝐎𝐍𝐈𝐂☬ঔৣ❦ %1s
+handlerEvents.waitingForCommand=💁| 𝐒𝐨𝐢𝐬 𝐩𝐚𝐭𝐢𝐞𝐧𝐭(𝐞) 𝐛𝐨𝐧 𝐬𝐚𝐧𝐠 \n__________________\n 😈STANLEY•••BOT😈 %1s
 handlerEvents.errorOccurred=❌ [ %1 ]\nAn error occurred at command "%2"\n\n%3
 handlerEvents.errorOccurred2=❌ [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3
 handlerEvents.errorOccurred3=❌ [ %1 ]\nAn error occurred when executing onReply at command "%2"\n\n%3
@@ -113,10 +113,10 @@ handlerEvents.errorOccurred7=❌ [ %1 ]\nAn error occurred when executing onAnyE
 handlerEvents.cannotFindCommandName=❌ Cannot find command name to execute this reply!
 handlerEvents.cannotFindCommand=❌ Cannot find command "%1" to execute this reply!
 
-# bot/autoUptime.js
+/ bot/autoUptime.js
 autoUptime.autoUptimeTurnedOn=AutoUptime mode turned on
 
-# database/controller/index.js
+/ database/controller/index.js
 indexController.connectingMongoDB=Connecting a MONGODB database
 indexController.connectMongoDBSuccess=Successfully connected mongodb database!
 indexController.connectMongoDBError=An error occurred when connecting the Mongodb database:
@@ -124,7 +124,7 @@ indexController.connectingMySQL=Connecting a SQLITE database
 indexController.connectMySQLSuccess=Successfully connected SQLITE database!
 indexController.connectMySQLError=An error occurred while connecting to a SQLITE database:
 
-# updater.js
+/ updater.js
 updater.updateTooFast=Please wait at least 5 minutes after the latest commit to update without error, %1 minutes %2 seconds left
 updater.latestVersion=You are using the latest version
 updater.cantFindVersion=You are using an undefined version (%1), please check your package.json file again
@@ -137,16 +137,16 @@ updater.backupSuccess=Successfully backed up changed files, see in the %1 folder
 updater.restartToApply=. Restart the bot to apply the new version
 updater.skipFile=There is a new version of the %1 file, but you have skipped this file during the update process with the comment %2 in this file
 
-# dashboard/routes/verifyfbid.js
+/ dashboard/routes/verifyfbid.js
 verifyfbid.sendCode=Your verification code is:\n%1\nThe verification code is valid for %2 minutes
 
-# utils.js
+/ utils.js
 utils.errorOccurred=❌ An error occurred:\n\n%1
 
-# for command
+/ for command
 command.restartedBot=Bot has been restarted
 
-# dashboard/app.js
+/ dashboard/app.js
 app.googleApiRefreshTokenExpired=Google API refresh token has expired or been revoked, please get a new token at https://developers.google.com/oauthplayground/
 app.tooManyRequests=Too many requests in the last minute. Please try again later.
 app.notPermissionChangeFbstate=You do not have permission to change fbstate!
