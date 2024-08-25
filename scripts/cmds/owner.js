@@ -27,7 +27,7 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: 'ᏋᎷᎮᏋᏒᏋᏬᏒ ᏝᎥᎶᏂᏖ ᎩᏗᎶᏗᎷᎥ',
+          name: 'Killian Ks',
           gender: 'ᏰᎧᎩ',
           hobby: 'ᏰᏗᏕᏦᏋᏖ🏀',
           relationship: 'ᏒᏋፈᏂᏋᏒፈᏂᏋ ᎴᏬᏁᏋ ᎮᏋᏖᎥᏖᏋ ᏗᎷᎥᏋ',
